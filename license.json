@@ -1,5 +1,129 @@
 {
-  "MIKU": { "active": true },
-  "MIKU-5678-BBBB": { "active": false },
-  "MIKU-9012-CCCC": { "active": false },
+  "licenses": [
+    {
+      "key": "MIKU",
+      "status": "active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-002",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-003",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-004",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-005",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-006",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-007",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-008",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-009",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-010",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-011",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-012",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-013",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-014",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-015",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-016",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-017",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-018",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-019",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-020",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-021",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-022",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-023",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-024",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-025",
+      "status": "non-active",
+      "expires": "2025-12-31"
+    }
+  ]
 }
