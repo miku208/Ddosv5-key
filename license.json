@@ -1,0 +1,6 @@
+{
+  "MIKU": { "active": true },
+  "MIKU-5678-BBBB": { "active": false },
+  "MIKU-9012-CCCC": { "active": false },
+  ...
+}
